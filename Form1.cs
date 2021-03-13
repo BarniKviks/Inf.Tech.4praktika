@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//2 и 10 номер из заданий
 namespace _4praktika
 {
   public partial class Form1 : Form
